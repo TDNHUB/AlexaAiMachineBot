@@ -46,25 +46,25 @@ async def chatbot(client, message):
     await alexaai.edit("**ɪ ᴀᴍ ᴅᴏɪɴɢ ᴍʏ ʟᴏᴠᴇ 💕**")
     await alexaai.delete()
     await asyncio.sleep(2)
-    umm = await message.reply_sticker("CAACAgIAAxkBAAEForNjAykaq_efq4Wd-9KZv-nNxJRn3AACIgMAAm2wQgO8x8PfoXC1eCkE")
+    umm = await message.reply_sticker("CAACAgUAAx0CZiY6gwACLS5jeNIzVjsGp6Zg39w9ubds1gABxxoAAq8GAAKBb8BXG8dpiVp4GLIrBA")
     await asyncio.sleep(2)
     await message.reply_photo(
-        photo=f"https://telegra.ph/file/2fabd1c33e888e0533891.jpg",
+        photo=f"https://te.legra.ph/file/64191119f900180fab849.jpg",
         caption=f"""━━━━━━━━━━━━━━━━━━━━━━━━
 💥 A ᴘᴏᴡᴇʀғᴜʟ ᴀɪ ʙᴏᴛ
-ᴏғ ♻️ ᴅʀ ᴀsᴀᴅ ᴀʟɪ 🔥
+ᴏғ ♻️ ᴀᴀᴅɪᴛʏᴀ 🔥
 ━━━━━━━━━━━━━━━━━
-ᴅᴀᴛᴀʙᴀsᴇ ʙᴀᴄᴋᴇɴᴅ ʙᴏᴛ ғᴏʀ ᴛɢ...
+ᴘᴏᴡᴇʀғᴜʟ ᴄʜᴀᴛʙᴏᴛ ᴏғ ᴛᴇʟᴇɢʀᴀᴍ...
 ┏━━━━━━━━━━━━━━━━━┓
-┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-┣★ ʜᴇᴀʀᴛ ᴜs  [ʜᴇᴀʀᴛ ❤️](https://t.me/Give_Me_Heart)
-┣★ ʙᴏᴛ ᴜᴏᴅᴀᴛᴇs [ᴏᴜʀ ᴏᴛʜᴇʀ ʙᴏᴛs](https://t.me/AsadSupport)
-┣★ ᴀʟᴇxᴀ ғᴇᴅ [ғᴇᴅ ʟᴏɢs](https://t.me/AlexaFed_Logs)
-┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://github.com/TheTeamAlexa/AlexaAiMachineBot)
-┣★ ɴᴇᴛᴡᴏʀᴋ [ʀᴏᴄᴋs](https://t.me/Shayri_Music_Lovers)
+┣★ ᴄʀᴇᴀᴛᴇʀ [ᴀᴀᴅɪᴛʏᴀ](https://t.me/Itzaadityaxd)
+┣★ ᴍʏ sᴘᴇᴄɪᴀʟ ᴏɴᴇ  [sᴛᴀʀ ❤️](https://t.me/saikostar_xd)
+┣★ ᴄʜᴀᴛᴛɪɴɢ ɢʀᴏᴜᴘ [ᴊᴏɪɴ](https://t.me/FRIENDS_MASTI_CLUB_FMC)
+┣★ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [ᴊᴏɪɴ](https://t.me/TDN_CHAT)
+┣★ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/saikostar_xd)
+┣★ ɴᴇᴛᴡᴏʀᴋ [ᴛᴅɴ](https://t.me/THE_DRAGON_NETWORK_OFFICIAL)
 ┗━━━━━━━━━━━━━━━━━┛
 💞 
-IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @Jankari_Ki_Duniya""",
+IF HAVE ANY QUESTION THEN CONTACT » TO » MY » [OWNER] @SAIKOSTAR_XD""",
     ) 
 
 
